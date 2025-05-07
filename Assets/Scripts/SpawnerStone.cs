@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Golf
 {
-    public class Spawners : MonoBehaviour
+    public class SpawnerStone : MonoBehaviour
     {
         public GameObject[] prefabs;
 

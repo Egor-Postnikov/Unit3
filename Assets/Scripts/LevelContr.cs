@@ -7,7 +7,7 @@ namespace Golf
 {
     public class LevelContr : MonoBehaviour
     {
-        public Spawners spawner;
+        public SpawnerStone spawner;
         public float delay = 0.5f;
         private float m_lastSpawnerTime = 0;
 

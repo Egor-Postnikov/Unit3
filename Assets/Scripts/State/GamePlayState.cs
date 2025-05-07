@@ -8,7 +8,7 @@ namespace Golf
     public class GamePlayState : GameState
     {
         public LevelContr levelContr;
-        public PlayerContr playerContr;
+        public PlayerController playerContr;
         public GameState gameOverState;
         public TMP_Text scoreText;
 
